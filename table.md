@@ -24,10 +24,10 @@
 
 | id  | surname   | firstname | dolor | entry_date |
 | --- | --------- | --------- | ----- | ---------- |
-| 1   | ZEMOUR    | Eric      | random (0-10)    | 20/04/19   |
-| 2   | COLOMBO   | Zizou     | random (0-10)     | 22/04/19   |
-| 3   | LAPERUCHE | Zaz       | random (0-10)    | 20/04/19   |
-| 4   | CIRAIL    | Canelle   | random (0-10)    | 20/04/19   |
+| 1   | ZEMOUR    | Eric      | random (0-10)    | now()   |
+| 2   | COLOMBO   | Zizou     | random (0-10)     | now()   |
+| 3   | LAPERUCHE | Zaz       | random (0-10)    | now()   |
+| 4   | CIRAIL    | Canelle   | random (0-10)    | now()   |
 
 ---
 **skills**
