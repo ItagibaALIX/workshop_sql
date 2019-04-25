@@ -14,20 +14,20 @@
 
 | id  | surname  | firstname | job          | efficiency |
 | --- | -------- | --------- | ------------ | ---------- |
-| 1   | MAMADOU  | Momo      | radiologue   | 10         |
-| 2   | LAMARK   | Fred      | urgentiste   | 10         |
-| 3   | CAMUS    | Albert    | chirurgien   | 10         |
-| 4   | LAUBERGE | Claude    | orthopédiste | 10         |
+| 1   | MAMADOU  | Momo      | radiologue   | random (0-10)     |
+| 2   | LAMARK   | Fred      | urgentiste   | random (0-10)         |
+| 3   | CAMUS    | Albert    | chirurgien   | random (0-10)         |
+| 4   | LAUBERGE | Claude    | orthopédiste | random (0-10)         |
 
 ---
 **patient**
 
 | id  | surname   | firstname | dolor | entry_date |
 | --- | --------- | --------- | ----- | ---------- |
-| 1   | ZEMOUR    | Eric      | 10    | 20/04/19   |
-| 2   | COLOMBO   | Zizou     | 5     | 22/04/19   |
-| 3   | LAPERUCHE | Zaz       | 10    | 20/04/19   |
-| 4   | CIRAIL    | Canelle   | 10    | 20/04/19   |
+| 1   | ZEMOUR    | Eric      | random (0-10)    | 20/04/19   |
+| 2   | COLOMBO   | Zizou     | random (0-10)     | 22/04/19   |
+| 3   | LAPERUCHE | Zaz       | random (0-10)    | 20/04/19   |
+| 4   | CIRAIL    | Canelle   | random (0-10)    | 20/04/19   |
 
 ---
 **skills**
