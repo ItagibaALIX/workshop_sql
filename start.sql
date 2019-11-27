@@ -5,7 +5,7 @@
 
 -- Fill the '*****' with the correct expression
 
-***** TABLE IF EXIST diploma
+***** TABLE IF EXISTS diploma;
 
 CREATE TABLE diploma (
     id ***** not null,
